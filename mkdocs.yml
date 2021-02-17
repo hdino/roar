@@ -1,0 +1,12 @@
+site_name: Real Open Access Rebellion
+nav:
+  - 'index.md'
+  - 'overview.md'
+  - 'motivation.md'
+  - 'publizieren.md'
+  - 'reputation.md'
+  - 'suche.md'
+  - 'startphase.md'
+  - 'dauerhafter_betrieb.md'
+theme:
+  name: readthedocs

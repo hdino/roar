@@ -1,0 +1,3 @@
+# Die Open-Access-Rebellion
+
+Ziel dieses Projekts ist...
